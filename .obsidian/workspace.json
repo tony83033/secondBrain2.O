@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough Notes/Daily note.md",
+                "file": "Want to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily note"
+              "title": "Want to learn"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough Notes/Daily note.md",
+                "file": "Want to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily note"
+              "title": "Backlinks for Want to learn"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough Notes/Daily note.md",
+                "file": "Want to learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily note"
+              "title": "Outline of Want to learn"
             }
           },
           {
@@ -210,21 +210,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b48555f315e3ae0",
+  "active": "c51e3e755ef182ac",
   "lastOpenFiles": [
-    "journel",
     "Rough Notes/randon.md",
+    "Want to learn.md",
+    "Bug Hunting",
+    "Resources/Commands",
+    "Resources/Research Papers",
+    "Resources/Videos",
+    "Resources/Articles",
+    "Resources",
+    "Projects/Ideas",
+    "Projects/Completed",
+    "Projects/Active",
+    "Projects/Active/checkoutOs",
+    "Rough Notes/Daily note.md",
+    "journal/2026/06/2026-06-28 Sun.md",
     "_templates/Daily Note.md",
     "2026/06/2026-06-28 Sun.md",
-    "2026/06",
-    "2026",
-    "Rough Notes/Daily note.md",
     "Untitled 1.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
     "Untitled.canvas",
-    "2026-06-28.md",
-    "_templates",
-    "Rough Notes"
+    "2026-06-28.md"
   ]
 }
