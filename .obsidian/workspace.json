@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Daily Note.md",
+                "file": "Rough Notes/Daily note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note"
+              "title": "Daily note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Daily Note.md",
+                "file": "Rough Notes/Daily note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Note"
+              "title": "Backlinks for Daily note"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Daily Note.md",
+                "file": "Rough Notes/Daily note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Note"
+              "title": "Outline of Daily note"
             }
           },
           {
@@ -210,17 +210,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c51e3e755ef182ac",
+  "active": "5b48555f315e3ae0",
   "lastOpenFiles": [
-    "Rough Notes/Daily note.md",
-    "_templates/Daily Note.md",
-    "_templates",
+    "journel",
     "Rough Notes/randon.md",
-    "Untitled 1.base",
-    "Untitled.canvas",
+    "_templates/Daily Note.md",
+    "2026/06/2026-06-28 Sun.md",
+    "2026/06",
+    "2026",
+    "Rough Notes/Daily note.md",
     "Untitled 1.canvas",
+    "Untitled 1.base",
     "Untitled.base",
+    "Untitled.canvas",
     "2026-06-28.md",
+    "_templates",
     "Rough Notes"
   ]
 }
