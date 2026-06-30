@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Active/checkoutOs/Status.md",
+                "file": "Bug Hunting/Random resource.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Status"
+              "title": "Random resource"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "724139109bfa2978",
   "lastOpenFiles": [
-    "journal/2026/06/2026-06-28 Sun.md",
     "Projects/Active/checkoutOs/Status.md",
+    "Bug Hunting/Random resource.md",
+    "journal/2026/06/2026-06-28 Sun.md",
     "Bucket list.md",
     "Want to learn.md",
     "Rough Notes/randon.md",
