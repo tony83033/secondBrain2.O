@@ -43,7 +43,23 @@ yeh analyze karna ki pichle mahine mein kaunse area mean sbase zada order aaye
 
 ===============================================================
 #dataWarehouseAndDataLake
+Data Warehouse
+	we have multiple sources of OLTP data website, store, Inventory , crm, payments 
+		we do ETL FLOW -> Extract, Transform , load
+			we store Structured data in Data Warehouse
+	
+Data Lake
+	it can store every formate of data 
+		Sushi Principle: Raw data is better
+			Dta ka original form mein rakho Jo bhi use karna chahta hai, apne hisaab se transform kar le
 
 
+===============================================================
+#DistributedSystems 
+
+1) Scalability
+2) Fault Tolerance
+3) Latency
+4) ElasticityLegal C
 
 
