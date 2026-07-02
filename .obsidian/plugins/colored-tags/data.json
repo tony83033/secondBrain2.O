@@ -10,6 +10,7 @@
     "highTextContrast": false
   },
   "knownTags": {
+    "datalaw": 5,
     "datawarehouseanddatalake": 3,
     "distributedsystems": 4,
     "oltpvsotap": 2,

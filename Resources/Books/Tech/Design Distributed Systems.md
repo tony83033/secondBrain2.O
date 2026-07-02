@@ -56,10 +56,32 @@ Data Lake
 
 ===============================================================
 #DistributedSystems 
-
+Pros of Distributed System
 1) Scalability
 2) Fault Tolerance
 3) Latency
-4) ElasticityLegal C
+4) Elasticity 
+5) Legal Compliance
+
+Problem of Distributed System 
+1) Network failure
+2) Complexity
+3) Consistency
+4) Speed
+===============================================================
+#dataLaw
+Data Law and Society
+
+Data Protection Laws (Examples)
+1) GDPR (Europe)
+2) INDIA(COMMING)
+3) CCPA (USA
+Traditional System have Append only logs (But according to GDPR we should delete them)
+
+Possible Approach (Example)
+1) Pseudoanymization
+2) Cypto + key Destruction
+3) Deletion Markers + Access Control
+4) Data Retention Policies
 
 
