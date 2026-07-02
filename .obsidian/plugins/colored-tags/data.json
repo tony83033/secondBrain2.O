@@ -9,7 +9,11 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "datawarehouseanddatalake": 3,
+    "oltpvsotap": 2,
+    "whatisdata": 1
+  },
   "tagColors": {},
   "_version": 4
 }

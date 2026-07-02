@@ -1,4 +1,4 @@
-
+#Whatisdata
 There is no solution there are only tradeoff
 
 What is data and why it's important
@@ -33,6 +33,17 @@ DATA-INTENSIVE Application Common Building Block
 5) Batch Processing
 
 ===============================================================
+#oltpVsotap
+OLTP AND OLAP Daily kaam aur Report Banana, Dono Alag Hain
 
-Frontend and Backed 
+OLTP (Online Transaction Processing)
+customer ka order process karna jaise swiggy pe ek order place karna
+OLAP( Online Analytical Processing)
+yeh analyze karna ki pichle mahine mein kaunse area mean sbase zada order aaye
+
+===============================================================
+#dataWarehouseAndDataLake
+
+
+
 
