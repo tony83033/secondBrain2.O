@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Hunting/Random resource.md",
+                "file": "Resources/Books/Tech/Design Distributed Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random resource"
+              "title": "Design Distributed Systems"
             }
           }
         ],
@@ -227,8 +227,11 @@
   },
   "active": "724139109bfa2978",
   "lastOpenFiles": [
-    "Projects/Active/checkoutOs/Status.md",
     "Bug Hunting/Random resource.md",
+    "Resources/Books/Tech/Design Distributed Systems.md",
+    "Resources/Books/Tech",
+    "Resources/Books",
+    "Projects/Active/checkoutOs/Status.md",
     "journal/2026/06/2026-06-28 Sun.md",
     "Bucket list.md",
     "Want to learn.md",
@@ -241,8 +244,6 @@
     "Resources",
     "Projects/Ideas",
     "Projects/Completed",
-    "Projects/Active",
-    "Projects/Active/checkoutOs",
     "Rough Notes/Daily note.md",
     "_templates/Daily Note.md",
     "2026/06/2026-06-28 Sun.md",
