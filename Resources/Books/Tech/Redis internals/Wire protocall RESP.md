@@ -1,4 +1,6 @@
+#RESP
 resp is a array of string
+
 
 Redis use RESP as a request response protocol
 it support int , string array char, in RESP every datatype start with a special character and the data end with \r \n CRLF (Carriage return line feed)
@@ -79,6 +81,7 @@ Key Highlights
 1) RESP is human readable
 2) RESP IS SIMPLE 
 3) RESP IS prefixed lengths (we exactly know how many bytes to read and process)
+
 
 
 

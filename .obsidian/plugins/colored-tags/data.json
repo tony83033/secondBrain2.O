@@ -13,7 +13,9 @@
     "datalaw": 5,
     "datawarehouseanddatalake": 3,
     "distributedsystems": 4,
+    "echoserver": 7,
     "oltpvsotap": 2,
+    "resp": 6,
     "whatisdata": 1
   },
   "tagColors": {},
