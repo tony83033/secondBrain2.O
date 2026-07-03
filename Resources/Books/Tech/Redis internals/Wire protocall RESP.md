@@ -49,5 +49,41 @@ Null value $-1\r\n
 
 Arrays 
 
-Arrays start with a ''
+Arrays start with a *
+
+Followed by the number of elements 
+Followed by a CRLF \r\n
+Followed by a RESP encoded elements
+
+Example
+['a','200','cat'] -> "*3\r\n $1\r\n a \r\n  :200\r\n $3\r\n cat \r\n"
+
+Null arrays are "*-1\r\n" 
+
+Empty arrays are'*0\r\n'
+
+Note -< we can also have nested array
+
+=============================================================
+Errors
+
+Error message stark with '-'
+Followed by the message
+Followed by CRLF '\r\n'
+
+Example -Key not found \r\n
+
+==========================================================
+Key Highlights
+
+1) RESP is human readable
+2) RESP IS SIMPLE 
+3) RESP IS prefixed lengths (we exactly know how many bytes to read and process)
+
+
+
+
+
+
+
 
