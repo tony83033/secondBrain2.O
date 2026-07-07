@@ -5,3 +5,4 @@ echo export GITHUB_TOKEN=your_github_personal_access_token_here' >> ~/.bashrc so
 
 trufflehog github --org=google --include-members
 https://xss.report/register -> for bliend xss
+https://wso2.com/
