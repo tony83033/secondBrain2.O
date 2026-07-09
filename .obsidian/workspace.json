@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Want to learn.md",
+                "file": "Bug Hunting/Random command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Want to learn"
+              "title": "Random command"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "724139109bfa2978",
   "lastOpenFiles": [
+    "Want to learn.md",
     "journal/2026/07/2026-07-09 Thu.md",
     "Bug Hunting/Random command.md",
     "journal/2026/07",
@@ -235,7 +236,6 @@
     "Bug Hunting/Targat",
     "Resources/Books/Tech/Redis internals/Simple Echo server.md",
     "Resources/Books/Tech/Redis internals/Wire protocall RESP.md",
-    "Want to learn.md",
     "Resources/Books/Tech/Redis internals",
     "Resources/Books/Tech/Design Distributed Systems.md",
     "Resources/Books/Tech",
