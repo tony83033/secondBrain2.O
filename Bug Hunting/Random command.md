@@ -12,3 +12,5 @@ and then git to nuclei
 
 https://xss.report/register -> for bliend xss
 https://wso2.com/
+
+cat subr | while read d; do echo "=== $d ==="; curl -s "http://web.archive.org/cdx/search/cdx?url=*.${d}/&output=text&fl=original&collapse=urlkey"; echo ""; done > subdomain.txt
