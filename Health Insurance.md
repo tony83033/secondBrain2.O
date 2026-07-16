@@ -8,6 +8,14 @@ Portability (Buy new plan)
 
 Existing disease waiting period 
 
+Important Addon 
+1) Consumables Covers (must tack this add on )
+2) Infinite Care (think about it )
+3) Power care (Must have)
+4) Jump Start (Good for someone have pre existing diseases)
+5) Claim Protector (Same as Consumables)
+
+
 ======================================================
 Good option 
 
