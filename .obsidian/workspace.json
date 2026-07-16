@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "724139109bfa2978",
+            "id": "d98923676257ceaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Hunting/Random command.md",
+                "file": "Rough Notes/Bajaj EMI Card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random command"
+              "title": "Bajaj EMI Card"
             }
           }
         ],
@@ -142,7 +142,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "724139109bfa2978",
+  "active": "d98923676257ceaa",
   "lastOpenFiles": [
-    "Want to learn.md",
+    "Bucket list.md",
+    "Untitled.md",
+    "Rough Notes/Bajaj EMI Card.md",
     "Bug Hunting/Random command.md",
+    "Want to learn.md",
     "journal/2026/07/2026-07-09 Thu.md",
     "journal/2026/07",
     "Bug Hunting/Targat/app.gladia.io.md",
@@ -242,7 +246,6 @@
     "Resources/Books",
     "Projects/Active/checkoutOs/Status.md",
     "journal/2026/06/2026-06-28 Sun.md",
-    "Bucket list.md",
     "Rough Notes/randon.md",
     "Bug Hunting",
     "Resources/Commands",
