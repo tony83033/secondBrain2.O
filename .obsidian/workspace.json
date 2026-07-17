@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health Insurance.md",
+                "file": "Want to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health Insurance"
+              "title": "Want to learn"
             }
           }
         ],
@@ -256,8 +256,8 @@
   },
   "active": "ffa6591324b750da",
   "lastOpenFiles": [
-    "CIBIL SCORE.md",
     "Health Insurance.md",
+    "CIBIL SCORE.md",
     "SWP(Systematic Withdrawal Plan).md",
     "Want to learn.md",
     "Rough Notes/Bajaj EMI Card.md",
