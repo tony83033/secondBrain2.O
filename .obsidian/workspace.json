@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Want to learn"
             }
+          },
+          {
+            "id": "2767ce3e1ccc7a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UPI"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,12 +268,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffa6591324b750da",
+  "active": "2767ce3e1ccc7a4b",
   "lastOpenFiles": [
+    "Want to learn.md",
+    "UPI.md",
     "Health Insurance.md",
     "CIBIL SCORE.md",
     "SWP(Systematic Withdrawal Plan).md",
-    "Want to learn.md",
     "Rough Notes/Bajaj EMI Card.md",
     "Bucket list.md",
     "Bug Hunting/Random command.md",
