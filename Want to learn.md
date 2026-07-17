@@ -7,3 +7,5 @@ creatre api -> check master stats
 update api -> nsdl request body and map
 newgen multiple nomieny request body -> 
 https://github.com/juspay/presto-ui
+
+https://www.youtube.com/watch?v=FYujuWqNSFo (code mint)
