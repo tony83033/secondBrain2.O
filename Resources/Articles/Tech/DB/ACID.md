@@ -16,7 +16,25 @@ Consistency -> Before transaction start and after the transaction end the Sum of
 
 Isolation ->To convert peraler schedute to serial schedule because serial schedule will always be consitant conflict serializability view serializability
 
-Durability -> Successfull transaction will always be persist
+Durability -> Successful transaction will always be persist
+
+===============================================================
+
+States of Transaction 
+
+Active State (Ex When we load Data or program in R.A.M)
+
+Partially Committed (All operation are Done in a Transaction except commit Means "n-1 operations are Done")
+
+Committed -> All n operation are Done and save in Hard Disk also 
+
+Terminated -> Release all the resources like free up the ram and memory and C.P.U
+
+Failed -> A Transaction will always be failed in Active or Partially committed State And we move it to Abort State
+
+Abort State -> Will mark as Fail or Restart the transaction
+
+
 
 
 
