@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Articles/Tech/DB/ACID.md",
+                "file": "Resources/Articles/Tech/DB/Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACID"
+              "title": "Schedule"
             }
           }
         ],
@@ -270,8 +270,9 @@
   },
   "active": "2767ce3e1ccc7a4b",
   "lastOpenFiles": [
-    "Resources/Articles/Tech/DB/Write Ahead logs.md",
     "Resources/Articles/Tech/DB/ACID.md",
+    "Resources/Articles/Tech/DB/Schedule.md",
+    "Resources/Articles/Tech/DB/Write Ahead logs.md",
     "Resources/Articles/Tech/DB",
     "Resources/Articles/Tech",
     "Projects/Active/checkoutOs/UPI.md",
