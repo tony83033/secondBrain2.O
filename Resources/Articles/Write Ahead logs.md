@@ -1,0 +1,1 @@
+This method write down a summary of the action to be performed into log before actually writing them to the disk . In the case of crash the OS can simplt 
