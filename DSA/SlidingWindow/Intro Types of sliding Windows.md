@@ -4,6 +4,8 @@ or largest string in substring
 
 Array or String + subarray or substring + largest value or smallest value + k variable k = window Size
 
+WindowSize = j - i +1; because array start with 0 that is why we need to add 1 to get window size
+
 Fix Size Window -> windows size is given in question
 1) sub array of size K
 2) Fist negative in every window size of K
@@ -16,4 +18,4 @@ Variable Size Window -> we need to find window size
 2) Largest sum string with K distinct characters
 3) Length of larges substring with no repeating characters
 4) Pick Toy
-5) Minimum window substring
+5) Minimum window substring 
