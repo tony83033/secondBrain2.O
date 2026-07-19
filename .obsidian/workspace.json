@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/SlidingWindow/First negative integer in every windows of size K.md",
+                "file": "Projects/Active/checkoutOs/Idempotency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First negative integer in every windows of size K"
+              "title": "Idempotency"
             }
           }
         ],
@@ -270,8 +270,10 @@
   },
   "active": "2767ce3e1ccc7a4b",
   "lastOpenFiles": [
-    "DSA/SlidingWindow/Intro Types of sliding Windows.md",
+    "Projects/Active/checkoutOs/Status.md",
+    "Projects/Active/checkoutOs/Idempotency.md",
     "DSA/SlidingWindow/First negative integer in every windows of size K.md",
+    "DSA/SlidingWindow/Intro Types of sliding Windows.md",
     "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "DSA/SlidingWindow",
     "Resources/Articles/Tech/DB/Serializability.md",
@@ -282,7 +284,6 @@
     "Resources/Articles/Tech/DB",
     "Resources/Articles/Tech",
     "Projects/Active/checkoutOs/UPI.md",
-    "Projects/Active/checkoutOs/Status.md",
     "Finance/CIBIL SCORE.md",
     "Resources/Books/Tech/DesignDistributedSystem/Design Distributed Systems2.md",
     "Finance",
@@ -305,7 +306,6 @@
     "Resources/Books/Tech/Redis internals/Wire protocall RESP.md",
     "Resources/Books/Tech/Redis internals",
     "journal/2026/06/2026-06-28 Sun.md",
-    "Rough Notes/randon.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
