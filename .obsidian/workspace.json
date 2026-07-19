@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/SlidingWindow/Intro Types of sliding Windows.md",
+                "file": "DSA/SlidingWindow/First negative integer in every windows of size K.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro Types of sliding Windows"
+              "title": "First negative integer in every windows of size K"
             }
           }
         ],
@@ -270,8 +270,9 @@
   },
   "active": "2767ce3e1ccc7a4b",
   "lastOpenFiles": [
-    "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "DSA/SlidingWindow/Intro Types of sliding Windows.md",
+    "DSA/SlidingWindow/First negative integer in every windows of size K.md",
+    "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "DSA/SlidingWindow",
     "Resources/Articles/Tech/DB/Serializability.md",
     "DSA",
@@ -305,7 +306,6 @@
     "Resources/Books/Tech/Redis internals",
     "journal/2026/06/2026-06-28 Sun.md",
     "Rough Notes/randon.md",
-    "Rough Notes/Daily note.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
