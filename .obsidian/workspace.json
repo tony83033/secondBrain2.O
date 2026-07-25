@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Active/checkoutOs/Idempotency.md",
+                "file": "Want to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idempotency"
+              "title": "Want to learn"
             }
           }
         ],
@@ -270,8 +270,8 @@
   },
   "active": "2767ce3e1ccc7a4b",
   "lastOpenFiles": [
-    "Projects/Active/checkoutOs/Status.md",
     "Projects/Active/checkoutOs/Idempotency.md",
+    "Projects/Active/checkoutOs/Status.md",
     "DSA/SlidingWindow/First negative integer in every windows of size K.md",
     "DSA/SlidingWindow/Intro Types of sliding Windows.md",
     "DSA/SlidingWindow/Best Time to buy and sell Stock.md",

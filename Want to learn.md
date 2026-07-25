@@ -9,3 +9,16 @@ newgen multiple nomieny request body ->
 https://github.com/juspay/presto-ui
 
 https://www.youtube.com/watch?v=FYujuWqNSFo (code mint)
+
+
+
+peter england or park avenue -? formal shirt
+
+banana club -> linen shitrs
+beach vibe shirt -> sampus sutra or higlander
+
+casual shirt -> the indian garage or master harbour
+
+oversige -> snitch
+
+tredisuanal shirt -> anouk or indus route or 
