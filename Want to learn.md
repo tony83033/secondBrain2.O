@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=FYujuWqNSFo (code mint)
 peter england or park avenue -? formal shirt
 
 banana club -> linen shitrs
-beach vibe shirt -> sampus sutra or higlander
+beach vibe shirt -> Campus sutra or higlander
 
 casual shirt -> the indian garage or master harbour
 
