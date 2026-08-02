@@ -16,9 +16,9 @@ Epoll monitores a lot of file descriptors for new I/O
 
 event loop not a saparate thread or neather a process it's just a thin layer that just manage I/O
 
- Epoll check is there any data avaliable in kernel buffer it copy the data from kernel buffer to user space
+ Epoll check is there any data available in kernel buffer it copy the data from kernel buffer to user space
 
-if data is avaliable in kernel buffer means there is an I/O ready 
+if data is available in kernel buffer means there is an I/O ready 
 
 Core Idea 
 
@@ -27,6 +27,6 @@ once a while check if someone is ready for an I/O
 if yes do the I/O 
 if not, continue
 
-In unix everyting is a file hence they have a file Descriptor
+In unix everything is a file hence they have a file Descriptor
 
-
+ 
