@@ -34,4 +34,4 @@ use saml protocal or OIDC protocal
 Access Control
 1) RBAC (Role-Based Access Control)
 2) ABAC (Attribute Based Access Control)
-3) ACL (Access Control l)
+3) ACL (Access Control List)
