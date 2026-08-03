@@ -22,3 +22,6 @@ casual shirt -> the indian garage or master harbour
 oversige -> snitch
 
 tredisuanal shirt -> anouk or indus route or 
+
+
+https://www.youtube.com/watch?v=nGareZEhdpI -> Building open claw
