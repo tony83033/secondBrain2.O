@@ -23,7 +23,7 @@ Token Based Auth
 
 OAuth2 and OICD
 	 It's a Authorization framework not a Auth method
-	 if I want to great a app to read the google drive 
+	 if I want to create a app to read the google drive 
 
 SSO
 SSO is a user expirence 
