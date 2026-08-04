@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Articles/Tech/APM (Application performance monitoring).md",
+                "file": "Resources/Concurrency vs Parallelism in Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APM (Application performance monitoring)"
+              "title": "Concurrency vs Parallelism in Node.js"
             }
           }
         ],
@@ -284,8 +284,9 @@
   },
   "active": "18379adb7f92734c",
   "lastOpenFiles": [
-    "Resources/Articles/Tech/Auth Concepts.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
+    "Resources/Concurrency vs Parallelism in Node.js.md",
+    "Resources/Articles/Tech/Auth Concepts.md",
     "Want to learn.md",
     "Resources/Articles/Tech/LLD/Strategy Design pattern.md",
     "Resources/Articles/Tech/LLD/Feature Flags.md",
@@ -317,7 +318,6 @@
     "Bug Hunting/Targat/app.gladia.io.md",
     "Bug Hunting/Targat/requestFinance",
     "Finance/Health Insurance.md",
-    "Finance/SWP(Systematic Withdrawal Plan).md",
     "journal/2026/07",
     "Bug Hunting/Targat",
     "Untitled 1.canvas",
