@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Concurrency vs Parallelism in Node.js.md",
+                "file": "Want to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concurrency vs Parallelism in Node.js"
+              "title": "Want to learn"
             }
           }
         ],
@@ -284,8 +284,8 @@
   },
   "active": "18379adb7f92734c",
   "lastOpenFiles": [
-    "Resources/Articles/Tech/APM (Application performance monitoring).md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
+    "Resources/Articles/Tech/APM (Application performance monitoring).md",
     "Resources/Articles/Tech/Auth Concepts.md",
     "Want to learn.md",
     "Resources/Articles/Tech/LLD/Strategy Design pattern.md",
