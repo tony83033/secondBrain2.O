@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Want to learn.md",
+                "file": "Resources/Advance Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Want to learn"
+              "title": "Advance Node.js"
             }
           }
         ],
@@ -284,10 +284,11 @@
   },
   "active": "18379adb7f92734c",
   "lastOpenFiles": [
+    "Want to learn.md",
+    "Resources/Advance Node.js.md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
     "Resources/Articles/Tech/Auth Concepts.md",
-    "Want to learn.md",
     "Resources/Articles/Tech/LLD/Strategy Design pattern.md",
     "Resources/Articles/Tech/LLD/Feature Flags.md",
     "Rough Notes/Bajaj EMI Card.md",
@@ -317,7 +318,6 @@
     "Bug Hunting/Targat/requestFinance/request finance.md",
     "Bug Hunting/Targat/app.gladia.io.md",
     "Bug Hunting/Targat/requestFinance",
-    "Finance/Health Insurance.md",
     "journal/2026/07",
     "Bug Hunting/Targat",
     "Untitled 1.canvas",
