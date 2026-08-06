@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Advance Node.js.md",
+                "file": "DSA/SlidingWindow/First negative integer in every windows of size K.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advance Node.js"
+              "title": "First negative integer in every windows of size K"
             }
           }
         ],
@@ -284,8 +284,11 @@
   },
   "active": "18379adb7f92734c",
   "lastOpenFiles": [
-    "Want to learn.md",
+    "DSA/SlidingWindow/Intro Types of sliding Windows.md",
+    "DSA/SlidingWindow/First negative integer in every windows of size K.md",
+    "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "Resources/Advance Node.js.md",
+    "Want to learn.md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
     "Resources/Articles/Tech/Auth Concepts.md",
@@ -300,9 +303,6 @@
     "Resources/Books/Tech/Redis internals/How event loop works.md",
     "Projects/Active/checkoutOs/Idempotency.md",
     "Projects/Active/checkoutOs/Status.md",
-    "DSA/SlidingWindow/First negative integer in every windows of size K.md",
-    "DSA/SlidingWindow/Intro Types of sliding Windows.md",
-    "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "DSA/SlidingWindow",
     "Resources/Articles/Tech/DB/Serializability.md",
     "DSA",
