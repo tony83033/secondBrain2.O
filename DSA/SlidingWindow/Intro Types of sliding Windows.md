@@ -3,6 +3,8 @@ or largest string in substring
 
 
 Array or String + subarray or substring + largest value or smallest value + k variable k = window Size
+Always start i =0; and j =0;
+
 
 WindowSize = j - i +1; because array start with 0 that is why we need to add 1 to get window size
 
