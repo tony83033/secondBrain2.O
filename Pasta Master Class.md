@@ -29,6 +29,12 @@ hot butter => chooped onions + chilli + corn  + chooped gajar + salt + bit water
 spring onions + Mushrooms + penne rigate 
 
 
-Butter + olive oil + garlic + + spring onion + Mushrooms + cooking cream  + ch
+Butter + olive oil + garlic + + spring onion + Mushrooms + cooking cream  + chooped tamatoes + boild pasta + cheese
+
+
+===========================================
+Indian pasta
+
+oil + jeera + garlic + onion + bell pepper + haldi + red chilli + coriander power + slat + water pasta + corn
 
 
