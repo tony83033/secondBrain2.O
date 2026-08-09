@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Want to learn"
             }
+          },
+          {
+            "id": "187241c5ec392887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pasta Master Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pasta Master Class"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -282,13 +296,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18379adb7f92734c",
+  "active": "187241c5ec392887",
   "lastOpenFiles": [
+    "Want to learn.md",
+    "Pasta Master Class.md",
     "DSA/SlidingWindow/Intro Types of sliding Windows.md",
     "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "DSA/SlidingWindow/First negative integer in every windows of size K.md",
     "Resources/Advance Node.js.md",
-    "Want to learn.md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
     "Resources/Articles/Tech/Auth Concepts.md",
@@ -316,7 +331,6 @@
     "Finance",
     "Resources/Books/Tech/DesignDistributedSystem",
     "Bug Hunting/Targat/requestFinance/request finance.md",
-    "Bug Hunting/Targat/app.gladia.io.md",
     "Bug Hunting/Targat/requestFinance",
     "journal/2026/07",
     "Bug Hunting/Targat",
