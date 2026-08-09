@@ -22,6 +22,13 @@ Boiled RIGATONI
 
 Mac and cheese 
 
-hot butter => chooped onions + chilli + corn  + chooped gajar + salt + bit water + unboild pasta 
+hot butter => chooped onions + chilli + corn  + chooped gajar + salt + bit water + unboild pasta + 1 cup watter+ salt + black pepper + red beell pepper + matar + boild milk + 1 cup cheese + 2 tsbp corn starch slurry
+
+=============================================================
+
+spring onions + Mushrooms + penne rigate 
+
+
+Butter + olive oil + garlic + + spring onion + Mushrooms + cooking cream  + ch
 
 
