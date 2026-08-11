@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta Master Class.md",
+                "file": "DSA/SlidingWindow/Intro Types of sliding Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasta Master Class"
+              "title": "Intro Types of sliding Windows"
             }
           }
         ],
@@ -298,11 +298,11 @@
   },
   "active": "187241c5ec392887",
   "lastOpenFiles": [
-    "Want to learn.md",
-    "Pasta Master Class.md",
-    "DSA/SlidingWindow/Intro Types of sliding Windows.md",
-    "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "DSA/SlidingWindow/First negative integer in every windows of size K.md",
+    "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
+    "DSA/SlidingWindow/Intro Types of sliding Windows.md",
+    "Pasta Master Class.md",
+    "Want to learn.md",
     "Resources/Advance Node.js.md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
