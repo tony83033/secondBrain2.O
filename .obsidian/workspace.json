@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Want to learn.md",
+                "file": "Rough Notes/Bajaj EMI Card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Want to learn"
+              "title": "Bajaj EMI Card"
             }
           }
         ],
@@ -300,11 +300,12 @@
   },
   "active": "187241c5ec392887",
   "lastOpenFiles": [
+    "Projects/Active/checkoutOs/ddf.md",
+    "Want to learn.md",
     "DSA/SlidingWindow/Intro Types of sliding Windows.md",
     "DSA/SlidingWindow/First negative integer in every windows of size K.md",
     "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
     "Pasta Master Class.md",
-    "Want to learn.md",
     "Resources/Advance Node.js.md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
@@ -332,7 +333,6 @@
     "Finance/CIBIL SCORE.md",
     "Finance",
     "Resources/Books/Tech/DesignDistributedSystem",
-    "Bug Hunting/Targat/requestFinance/request finance.md",
     "Bug Hunting/Targat/requestFinance",
     "journal/2026/07",
     "Bug Hunting/Targat",

@@ -48,3 +48,17 @@ m4
 m5
 t2
 t3
+
+
+Domain:- cybrigesolutions.com
+Email:- team@cybrigesolutions.com
+
+
+Email:- secdroidofficial@gmail.com 
+Password:- Anand@123QQ
+
+kundankapgate2005@gmail.com
+12345678
+https://api.cybrigesolutions.com/admin/dashboard
+8oEwqLmO@)Dw3auE
+sftp://187.127.189.103
