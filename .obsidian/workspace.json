@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough Notes/Bajaj EMI Card.md",
+                "file": "Want to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bajaj EMI Card"
+              "title": "Want to learn"
             }
           }
         ],
@@ -300,22 +300,22 @@
   },
   "active": "187241c5ec392887",
   "lastOpenFiles": [
+    "Pasta Master Class.md",
+    "sandboxes.md",
+    "Bucket list.md",
+    "Rough Notes/Bajaj EMI Card.md",
     "Projects/Active/checkoutOs/ddf.md",
     "Want to learn.md",
     "DSA/SlidingWindow/Intro Types of sliding Windows.md",
     "DSA/SlidingWindow/First negative integer in every windows of size K.md",
     "DSA/SlidingWindow/Best Time to buy and sell Stock.md",
-    "Pasta Master Class.md",
     "Resources/Advance Node.js.md",
     "Resources/Concurrency vs Parallelism in Node.js.md",
     "Resources/Articles/Tech/APM (Application performance monitoring).md",
     "Resources/Articles/Tech/Auth Concepts.md",
     "Resources/Articles/Tech/LLD/Strategy Design pattern.md",
     "Resources/Articles/Tech/LLD/Feature Flags.md",
-    "Rough Notes/Bajaj EMI Card.md",
     "Resources/Articles/Tech/LLD",
-    "sandboxes.md",
-    "Bucket list.md",
     "Resources/Books/Tech/DesignDistributedSystem/Design Distributed Systems2.md",
     "Resources/Books/Tech/DesignDistributedSystem/Design Distributed Systems1.md",
     "Resources/Books/Tech/Redis internals/How event loop works.md",
