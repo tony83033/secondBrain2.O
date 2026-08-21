@@ -67,3 +67,5 @@ https://www.youtube.com/watch?v=u-LfLW9Kgis -> drone basic
 
 
 open camera
+
+https://www.youtube.com/watch?v=4LDbloNewgk&t=1477s -> camera basic
