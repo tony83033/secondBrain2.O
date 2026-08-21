@@ -62,3 +62,5 @@ kundankapgate2005@gmail.com
 https://api.cybrigesolutions.com/admin/dashboard
 8oEwqLmO@)Dw3auE
 sftp://187.127.189.103
+
+https://www.youtube.com/watch?v=u-LfLW9Kgis -> drone basic
