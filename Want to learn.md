@@ -64,3 +64,6 @@ https://api.cybrigesolutions.com/admin/dashboard
 sftp://187.127.189.103
 
 https://www.youtube.com/watch?v=u-LfLW9Kgis -> drone basic
+
+
+open camera
