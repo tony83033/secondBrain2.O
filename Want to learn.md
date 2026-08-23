@@ -69,3 +69,6 @@ https://www.youtube.com/watch?v=u-LfLW9Kgis -> drone basic
 open camera
 
 https://www.youtube.com/watch?v=4LDbloNewgk&t=1477s -> camera basic
+
+
+https://www.amazon.in/Celfiexpt-Rotation-Bluetooth-Multi-Function-Android/dp/B0F4K315CP?th=1&linkCode=sl1&tag=in_cs_fip_pihuvirmani-aug25exp-11-21&linkId=618c22ba138bbbda1709d27506cde889&language=en_IN
