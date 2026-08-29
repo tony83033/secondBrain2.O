@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Want to learn.md",
+                "file": "Projects/Active/checkoutOs/Idempotency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Want to learn"
+              "title": "Idempotency"
             }
           }
         ],
@@ -300,8 +300,8 @@
   },
   "active": "187241c5ec392887",
   "lastOpenFiles": [
-    "Projects/Active/checkoutOs/ddf.md",
     "Want to learn.md",
+    "Projects/Active/checkoutOs/ddf.md",
     "Pasta Master Class.md",
     "sandboxes.md",
     "Bucket list.md",
