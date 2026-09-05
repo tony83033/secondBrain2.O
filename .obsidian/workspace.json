@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Computing.md",
+                "file": "Projects/Jarvis/Jarvis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantum Computing"
+              "title": "Jarvis"
             }
           }
         ],
@@ -314,8 +314,10 @@
   },
   "active": "66d50daaf45f14d8",
   "lastOpenFiles": [
-    "Projects/Active/checkoutOs/Idempotency.md",
     "Quantum Computing.md",
+    "Projects/Jarvis/Jarvis.md",
+    "Projects/Jarvis",
+    "Projects/Active/checkoutOs/Idempotency.md",
     "Want to learn.md",
     "Projects/Active/checkoutOs/ddf.md",
     "Pasta Master Class.md",
@@ -344,12 +346,10 @@
     "Resources/Articles/Tech/DB/Schedule.md",
     "Resources/Articles/Tech/DB",
     "Resources/Articles/Tech",
-    "Projects/Active/checkoutOs/UPI.md",
     "Finance",
     "Resources/Books/Tech/DesignDistributedSystem",
     "Bug Hunting/Targat/requestFinance",
     "journal/2026/07",
-    "Bug Hunting/Targat",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
