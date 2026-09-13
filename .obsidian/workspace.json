@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Want to learn.md",
+                "file": "Projects/A2APyament/x402 protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Want to learn"
+              "title": "x402 protocol"
             }
           },
           {
@@ -314,11 +314,13 @@
   },
   "active": "38cd62b38a1dc6d6",
   "lastOpenFiles": [
+    "Want to learn.md",
+    "Projects/A2APyament/x402 protocol.md",
+    "Projects/A2APyament",
     "Projects/Jarvis/Jarvis.md",
     "Quantum Computing.md",
     "Projects/Jarvis",
     "Projects/Active/checkoutOs/Idempotency.md",
-    "Want to learn.md",
     "Projects/Active/checkoutOs/ddf.md",
     "Pasta Master Class.md",
     "sandboxes.md",
@@ -343,13 +345,11 @@
     "DSA",
     "Resources/Articles/Tech/DB/ACID.md",
     "Resources/Articles/Tech/DB/Write Ahead logs.md",
-    "Resources/Articles/Tech/DB/Schedule.md",
     "Resources/Articles/Tech/DB",
     "Resources/Articles/Tech",
     "Finance",
     "Resources/Books/Tech/DesignDistributedSystem",
     "Bug Hunting/Targat/requestFinance",
-    "journal/2026/07",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
