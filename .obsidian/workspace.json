@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Want to learn.md",
+                "file": "Resources/Books/Nationalism/Nationalism by Rabindranath by tagore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Want to learn"
+              "title": "Nationalism by Rabindranath by tagore"
             }
           },
           {
@@ -314,8 +314,10 @@
   },
   "active": "38cd62b38a1dc6d6",
   "lastOpenFiles": [
-    "Projects/A2APyament/x402 protocol.md",
     "Want to learn.md",
+    "Resources/Books/Nationalism/Nationalism by Rabindranath by tagore.md",
+    "Resources/Books/Nationalism",
+    "Projects/A2APyament/x402 protocol.md",
     "Projects/A2APyament",
     "Projects/Jarvis/Jarvis.md",
     "Quantum Computing.md",
@@ -344,12 +346,10 @@
     "Resources/Articles/Tech/DB/Serializability.md",
     "DSA",
     "Resources/Articles/Tech/DB/ACID.md",
-    "Resources/Articles/Tech/DB/Write Ahead logs.md",
     "Resources/Articles/Tech/DB",
     "Resources/Articles/Tech",
     "Finance",
     "Resources/Books/Tech/DesignDistributedSystem",
-    "Bug Hunting/Targat/requestFinance",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
