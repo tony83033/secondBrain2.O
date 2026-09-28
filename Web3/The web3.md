@@ -1,0 +1,5 @@
+
+1) BTC WHITEPAPER
+2) SOLANA CURRICULUM
+3) C++/rust
+4) 
