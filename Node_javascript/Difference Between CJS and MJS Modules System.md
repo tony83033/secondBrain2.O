@@ -7,6 +7,7 @@ File extension optional
 // It is a convention to add cjs in the file extension . 
 // we can set type:commonjs in package.json but it's optional
 // The value of this keyword is {} it point to module.exports by default
+// cjs imports are not hoisted
 
 // ES6 Modules
 
@@ -16,3 +17,4 @@ File extension optional
 // It is a convention to add mjs in the file extension
 // We have to set type:module in package.js
 // The value of this is undefined
+// Es6 import are hoisted
