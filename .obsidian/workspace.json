@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web3/The web3.md",
+                "file": "Node_javascript/Difference Between CJS and MJS Modules System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The web3"
+              "title": "Difference Between CJS and MJS Modules System"
             }
           },
           {
@@ -314,8 +314,10 @@
   },
   "active": "38cd62b38a1dc6d6",
   "lastOpenFiles": [
-    "Resources/Books/Nationalism/Nationalism by Rabindranath by tagore.md",
     "Web3/The web3.md",
+    "Node_javascript/Difference Between CJS and MJS Modules System.md",
+    "Node_javascript",
+    "Resources/Books/Nationalism/Nationalism by Rabindranath by tagore.md",
     "Web3",
     "Want to learn.md",
     "Resources/Books/Nationalism",
@@ -345,11 +347,9 @@
     "Resources/Books/Tech/Redis internals/How event loop works.md",
     "Projects/Active/checkoutOs/Status.md",
     "DSA/SlidingWindow",
-    "Resources/Articles/Tech/DB/Serializability.md",
     "DSA",
     "Resources/Articles/Tech/DB",
     "Resources/Articles/Tech",
-    "Finance",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
